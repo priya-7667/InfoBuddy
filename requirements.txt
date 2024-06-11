@@ -2,7 +2,7 @@ streamlit
 langchain
 PyPDF2
 pdfplumber
-pdfminer.six
+pdfminer
 pillow
 pillow-heif
 faiss-cpu
