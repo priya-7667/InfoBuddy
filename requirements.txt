@@ -1,0 +1,9 @@
+streamlit
+langchain
+PyPDF2
+pdfplumber
+pdfminer.six
+pillow
+pillow-heif
+faiss-cpu
+transformers
