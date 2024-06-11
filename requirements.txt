@@ -7,3 +7,5 @@ pillow
 pillow-heif
 faiss-cpu
 transformers
+langchain.document_loaders 
+UnstructuredPDFLoader
