@@ -8,3 +8,5 @@ pillow-heif==0.16.0
 faiss-cpu==1.8.0
 transformers==4.41.2
 langchain-community
+huggingface-hub==0.10.1
+torch==1.13.0
