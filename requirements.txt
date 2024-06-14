@@ -7,6 +7,6 @@ pillow==10.3.0
 pillow-heif==0.16.0
 faiss-cpu==1.8.0
 transformers==4.41.2
-langchain-community
 huggingface-hub>=0.23.0
 torch==1.13.0
+unstructured==0.7.7
